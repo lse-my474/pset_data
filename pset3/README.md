@@ -6,7 +6,7 @@ In this second assignment, you will need to fill in a RMarkdown document in the 
 
 You will have to submit the assignment using GitHub classroom. Remember that we will evaluate you based on your compiled RMarkdown files (in .html format).
 
-This is an group assignment.
+This is a group assignment.
 
 Submissions without an html file will receive 0 points.
 
