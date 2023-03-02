@@ -2,9 +2,9 @@
 
 ## Assignment 3
 
-In this second assignment, you will need to fill in a RMarkdown document in the code folder and complete in your writeup in the writeup.
+In this second assignment, you will need to fill in a RMarkdown document in the code folder and complete in your writeup in the writeup folder.
 
-You will have to submit the assignment using GitHub classroom. Remember that we will evaluate you based on your compiled RMarkdown files (in .html format). You can add your responses in italics so that it's easier for us to read them.
+You will have to submit the assignment using GitHub classroom. Remember that we will evaluate you based on your compiled RMarkdown files (in .html format).
 
 This is an group assignment.
 
